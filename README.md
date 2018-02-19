@@ -1,7 +1,7 @@
 # HMM Decoding: Viterbi Algorithm
 
 Implement the Viterbi algorithm and run it with the HMM in Figure 1 to compute the most likely weather sequence.
-![Figure 1](../figure1.png)
+![Figure 1](figure1.png)
 Figure 1. A Hidden Markov Model for relating action (Walk, Shop and Clean, the observations) to weather (Rainy or Sunny, the hidden variables). For this example, we are not using an end-state, instead allowing both states Rainy and Sunny to be a final (accepting) state.
 
 ## Implementation
