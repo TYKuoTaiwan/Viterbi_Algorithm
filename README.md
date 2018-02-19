@@ -28,8 +28,7 @@ for example:
 python3 Viterbi.py "WCWWSSCWC"
 ```
 
-## Output
-
+output:
 ```
 RRSSSSRRR
 ```
